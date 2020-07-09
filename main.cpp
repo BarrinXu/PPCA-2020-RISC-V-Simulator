@@ -320,9 +320,7 @@ void solve()
 }
 int main()
 {
-    freopen("in.data","r",stdin);
     pre();
     solve();
-
     return 0;
 }
